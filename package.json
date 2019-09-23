@@ -1,0 +1,10 @@
+{
+    "name": "button.rem",
+    "version": "0.0.1",
+    "description": "button",
+    "keywords": [
+        "button"
+    ],
+    "main": "./src/button.css",
+    "license": "MIT"
+}
